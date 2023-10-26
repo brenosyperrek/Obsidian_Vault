@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "45332b1f77882ceb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e49a5f8be5e8ceaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a2c7c6b1e9a12a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CASAN/Contratos/01 - Gestão de Contratos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08afc41ed8f59abc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8466568fc4db70b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "217017e4548ba152",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "317f9af7130eee23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b6a1d705fdf3675",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "938c1d332f31305c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdba8634a15b048b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f7e8ffdc7141e0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CASAN/Contratos/01 - Gestão de Contratos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a753a8df6a1ecacb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CASAN/Contratos/01 - Gestão de Contratos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfaff1d9acdf0cda",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "01eca06adf29a881",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CASAN/Contratos/01 - Gestão de Contratos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "217017e4548ba152",
+  "lastOpenFiles": [
+    "CASAN/Contratos/02 - Prorrogação de Prazo.md",
+    "CASAN/Contratos/04 - Reajuste.md",
+    "CASAN/Contratos/03 - Acréscimo e Suspenção.md",
+    "CASAN/Como Enviar as Fichas de Frequência via SGPe.md",
+    "CASAN/Contratos/01 - Gestão de Contratos.md",
+    "BD/Alterar senha root mysql.md",
+    "DEV",
+    "desktop.ini",
+    "BD",
+    "CASAN/Contratos/05 - Reequilíbrio.md",
+    "CASAN/Contratos/Contratos.xlsx",
+    "CASAN",
+    "Untitled.canvas",
+    "2023-10-24.md",
+    "Prorrogação.md",
+    "().md",
+    "CASAN/Contratos"
+  ]
+}
