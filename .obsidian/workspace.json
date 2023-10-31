@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e49a5f8be5e8ceaf",
+        "id": "e85c16f74c81852c",
         "type": "tabs",
         "children": [
           {
-            "id": "3a2c7c6b1e9a12a7",
+            "id": "e243f03c50b0fb31",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -138,32 +138,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "217017e4548ba152",
+  "active": "e243f03c50b0fb31",
   "lastOpenFiles": [
-    "CASAN/Contratos/02 - Prorrogação de Prazo.md",
-    "CASAN/Contratos/04 - Reajuste.md",
-    "CASAN/Contratos/03 - Acréscimo e Suspenção.md",
+    "RECEITAS/Baião de Dois.md",
+    "RECEITAS/Bolinho de tapioca recheado com linguiça calabresa.md",
+    "Imagens",
+    "RECEITAS/Sanduíche de carne desfiada.md",
+    "RECEITAS/Estrogonofe do Jaquin.md",
+    "Imagens/20200926_134853.jpg",
+    "RECEITAS/Costela Suína Assada.md",
+    "RECEITAS/Carne Louca.md",
+    "RECEITAS/Costela Braseada.md",
+    "RECEITAS/Boeuf Bourguignon.md",
+    "RECEITAS/Bobó De Camarão.md",
+    "RECEITAS/Bisque de frutos do mar.md",
+    "RECEITAS/Batata Porco-Espinho.md",
+    "RECEITAS/Bacalhau Com Tomates, Batatas e Azeite de Urucum.md",
+    "CASAN/Renovação do Certificado de Licença do Saprouter.md",
+    "RECEITAS",
+    "CASAN/SqlPlus.md",
     "CASAN/Como Enviar as Fichas de Frequência via SGPe.md",
     "CASAN/Contratos/01 - Gestão de Contratos.md",
+    "README.md",
+    "BD/Conector Python Mysql.md",
+    "BD/Exemplo de Criação de Database Mysql.md",
+    "CASAN/Contratos/05 - Reequilíbrio.md",
+    "CASAN/Contratos/04 - Reajuste.md",
+    "CASAN/Contratos/03 - Acréscimo e Suspenção.md",
+    "CASAN/Contratos/02 - Prorrogação de Prazo.md",
+    "desktop.ini",
     "BD/Alterar senha root mysql.md",
     "DEV",
-    "desktop.ini",
     "BD",
-    "CASAN/Contratos/05 - Reequilíbrio.md",
     "CASAN/Contratos/Contratos.xlsx",
     "CASAN",
     "Untitled.canvas",
     "2023-10-24.md",
-    "Prorrogação.md",
-    "().md",
     "CASAN/Contratos"
   ]
 }
