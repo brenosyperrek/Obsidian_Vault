@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV/Steps to Install Anaconda on Windows Ubuntu Terminal.md",
+                "file": "CASAN/Contratos/01 - Gestão de Contratos.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEV/Steps to Install Anaconda on Windows Ubuntu Terminal.md",
+                "file": "CASAN/Contratos/01 - Gestão de Contratos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEV/Steps to Install Anaconda on Windows Ubuntu Terminal.md",
+                "file": "CASAN/Contratos/01 - Gestão de Contratos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEV/Steps to Install Anaconda on Windows Ubuntu Terminal.md"
+                "file": "CASAN/Contratos/01 - Gestão de Contratos.md"
               }
             }
           }
@@ -138,17 +138,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false,
       "canvas:Create new canvas": false
     }
   },
   "active": "e243f03c50b0fb31",
   "lastOpenFiles": [
-    "CASAN/Contratos/01 - Gestão de Contratos.md",
     "DEV/Steps to Install Anaconda on Windows Ubuntu Terminal.md",
     "DEV",
     "RECEITAS/Baião de Dois.md",
@@ -169,6 +168,7 @@
     "RECEITAS",
     "CASAN/SqlPlus.md",
     "CASAN/Como Enviar as Fichas de Frequência via SGPe.md",
+    "CASAN/Contratos/01 - Gestão de Contratos.md",
     "README.md",
     "BD/Conector Python Mysql.md",
     "BD/Exemplo de Criação de Database Mysql.md",
@@ -178,7 +178,6 @@
     "CASAN/Contratos/02 - Prorrogação de Prazo.md",
     "desktop.ini",
     "BD/Alterar senha root mysql.md",
-    "DEV",
     "BD",
     "CASAN/Contratos/Contratos.xlsx",
     "CASAN",
