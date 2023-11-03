@@ -138,18 +138,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir Quick Switcher": false,
-      "graph:Abrir Visualização de diagrama de grafo": false,
-      "daily-notes:Abrir nota de hoje": false,
-      "templates:Inserir templates": false,
-      "command-palette:Abrir paleta de comando": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "canvas:Create new canvas": false
     }
   },
   "active": "e243f03c50b0fb31",
   "lastOpenFiles": [
-    "CASAN/Contratos/01 - Gestão de Contratos.md",
+    "BD/Alterar senha root mysql.md",
     "DEV/Steps to Install Anaconda on Windows Ubuntu Terminal.md",
+    "CASAN/Contratos/01 - Gestão de Contratos.md",
     "DEV",
     "RECEITAS/Baião de Dois.md",
     "RECEITAS/Bolinho de tapioca recheado com linguiça calabresa.md",
@@ -177,7 +178,6 @@
     "CASAN/Contratos/03 - Acréscimo e Suspenção.md",
     "CASAN/Contratos/02 - Prorrogação de Prazo.md",
     "desktop.ini",
-    "BD/Alterar senha root mysql.md",
     "BD",
     "CASAN/Contratos/Contratos.xlsx",
     "CASAN",
