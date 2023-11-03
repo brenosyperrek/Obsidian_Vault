@@ -30,3 +30,10 @@ Thanks to Alexander for the tip:
 https://conda.io/docs/glossary.html#anaconda-glossary
 https://www.cgranade.com/blog/2016/08/22/qutip-on-wsl.html
 https://jupyter.readthedocs.io/en/latest/install.html
+
+
+### Desativar Início Automático do Anaconda
+
+``` bash
+conda config --set auto_activate_base false
+```
