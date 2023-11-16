@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV/Fundamentos do Python.md",
+                "file": "CASAN/Contratos/04 - Reajuste.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEV/Fundamentos do Python.md",
+                "file": "CASAN/Contratos/04 - Reajuste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEV/Fundamentos do Python.md",
+                "file": "CASAN/Contratos/04 - Reajuste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEV/Fundamentos do Python.md"
+                "file": "CASAN/Contratos/04 - Reajuste.md"
               }
             }
           }
@@ -148,10 +148,15 @@
   },
   "active": "e243f03c50b0fb31",
   "lastOpenFiles": [
+    "BD/Alterar senha root mysql.md",
+    "Viagem Orlando",
+    "CASAN/CPPDP/Reunião 09-11-2023.md",
+    "CASAN/SqlPlus.md",
+    "CASAN/CPPDP",
+    "CASAN/Contratos/02 - Prorrogação de Prazo.md",
+    "CASAN/Contratos/01 - Gestão de Contratos.md",
     "DEV/Steps to Install Anaconda on Windows Ubuntu Terminal.md",
     "DEV/Fundamentos do Python.md",
-    "BD/Alterar senha root mysql.md",
-    "CASAN/Contratos/01 - Gestão de Contratos.md",
     "DEV",
     "RECEITAS/Baião de Dois.md",
     "RECEITAS/Bolinho de tapioca recheado com linguiça calabresa.md",
@@ -169,15 +174,11 @@
     "RECEITAS/Bacalhau Com Tomates, Batatas e Azeite de Urucum.md",
     "CASAN/Renovação do Certificado de Licença do Saprouter.md",
     "RECEITAS",
-    "CASAN/SqlPlus.md",
     "CASAN/Como Enviar as Fichas de Frequência via SGPe.md",
     "README.md",
     "BD/Conector Python Mysql.md",
     "BD/Exemplo de Criação de Database Mysql.md",
     "CASAN/Contratos/05 - Reequilíbrio.md",
-    "CASAN/Contratos/04 - Reajuste.md",
-    "CASAN/Contratos/03 - Acréscimo e Suspenção.md",
-    "CASAN/Contratos/02 - Prorrogação de Prazo.md",
     "desktop.ini",
     "BD",
     "CASAN/Contratos/Contratos.xlsx",
